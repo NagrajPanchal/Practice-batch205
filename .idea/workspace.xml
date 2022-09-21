@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DemoDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DemoIncrementDecrementNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DemoIncrementNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/IfCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/VariableTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Practice"
   }
-}</component>
-  <component name="RunManager" selected="Application.Diamond">
-    <configuration name="DemoDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.pattern.DemoDiamond" />
+}]]></component>
+  <component name="RunManager" selected="Application.IfCondition">
+    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.DataType" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.pattern.*" />
+          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoIncrementDecrementNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.pattern.DemoIncrementDecrementNumbers" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.Demo" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.pattern.*" />
+          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoIncrementNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.pattern.DemoIncrementNumbers" />
+    <configuration name="IfCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.IfCondition" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.pattern.*" />
+          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.pattern.Diamond" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.Methods" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.pattern.*" />
+          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Main" />
+    <configuration name="VariableTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.VariableTypes" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.pattern.*" />
+          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Diamond" />
-        <item itemvalue="Application.DemoDiamond" />
-        <item itemvalue="Application.DemoIncrementDecrementNumbers" />
-        <item itemvalue="Application.DemoIncrementNumbers" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IfCondition" />
+        <item itemvalue="Application.VariableTypes" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.DataType" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
