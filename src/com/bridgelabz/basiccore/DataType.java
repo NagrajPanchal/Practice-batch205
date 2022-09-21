@@ -5,7 +5,7 @@ public class DataType
 {
     public static void main(String[] args)
     {
-
+// Primitive default data types
         byte b = 10;  //0  // 1 byte  //  -128 to 127
         short s = 20; //0  // 2 byte  //
         int i = 10;   //0  // 4 byte
