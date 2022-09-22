@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.practice;
 
 public class Main {
     public static void main(String[] args)

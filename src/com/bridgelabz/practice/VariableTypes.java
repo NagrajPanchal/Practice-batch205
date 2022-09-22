@@ -19,7 +19,7 @@ Instance variables are non-static variables and are declared in a class outside 
 
 */
 // Variables Types
-package com.bridgelabz.basiccore;
+package com.bridgelabz.practice;
 
 public class VariableTypes
 {

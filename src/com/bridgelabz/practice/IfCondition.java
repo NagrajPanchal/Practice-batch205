@@ -1,5 +1,5 @@
 // if Condition
-package com.bridgelabz.basiccore;
+package com.bridgelabz.practice;
 
 public class IfCondition
 {

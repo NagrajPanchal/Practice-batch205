@@ -12,7 +12,7 @@
 
 // JVM Architecture
 // Hello World Class
-package com.bridgelabz.basiccore;
+package com.bridgelabz.practice;
 
 public class Demo
 {
