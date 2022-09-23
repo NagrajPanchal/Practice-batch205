@@ -4,20 +4,19 @@ package com.bridgelabz.basiccore;
 import java.util.Scanner;
 public class AlphabetVowelConsonant
 {
-    static void alphabet(char c)
+    static void alphabet()
     {
-        switch (c)
-        {
-            case 'c':
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("Enter any Charctore : ");
+            char c = scanner.next().charAt(0);
+            if (c == 'a' || c == 'A' || c == 'e' || c == 'E' || c == 'i' || c == 'I' || c == 'o' || c == 'O' || c == 'u' || c == 'U') {
                 System.out.println("Vowel");
-                break;
-            default:
+            } else {
                 System.out.println("Consonant");
-                break;
-        }
+            }
     }
     public static void main(String[] args)
     {
-
+        alphabet();
     }
 }
