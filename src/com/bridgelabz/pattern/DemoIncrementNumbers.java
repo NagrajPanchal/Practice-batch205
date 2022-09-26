@@ -6,13 +6,13 @@ public class DemoIncrementNumbers
 {
     public static void main(String[] args)
     {
-        for (int i =1; i<=5; i++)
+        for (int i =1; i<=5; i++) //i=1,2,3,4,5
         {
-            System.out.println();
-            for (int j=1; j<=i; j++)
+            for (int j=1; j<=i; j++) //i=2 j==2
             {
-                System.out.print(j);
+                System.out.print(j); //j=1
             }
+            System.out.println();
         }
     }
 }
