@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/powerbase/Power2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/powerbase/Power2RecursiveFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/powerbase/Power2SimpleLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/powerbase/PowerBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/powerbase/PowerWhile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Practice&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Power2RecursiveFunction">
     <configuration name="Power2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.powerbase.Power2" />
