@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayOfElementsEvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayOfElementsInLine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayOfElementsEvenOrOdd">
+  <component name="RunManager" selected="Application.ArrayOfElementsInLine">
     <configuration name="ArrayElementsFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElementsFor" />
       <module name="Practice" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayElementsForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElementsForEach" />
+    <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
+    <configuration name="ArrayOfElementsInLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsInLine" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -110,18 +110,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayElementsFor" />
-      <item itemvalue="Application.ArrayElementsForEach" />
       <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
+      <item itemvalue="Application.ArrayOfElementsInLine" />
       <item itemvalue="Application.ArrayPresentEvenPosition" />
       <item itemvalue="Application.ArrayPresentOddPosition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOfElementsInLine" />
         <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
         <item itemvalue="Application.ArrayPresentOddPosition" />
         <item itemvalue="Application.ArrayPresentEvenPosition" />
         <item itemvalue="Application.ArrayElementsFor" />
-        <item itemvalue="Application.ArrayElementsForEach" />
       </list>
     </recent_temporary>
   </component>
