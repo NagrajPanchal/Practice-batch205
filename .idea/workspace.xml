@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayPresentOddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayOfElementsEvenOrOdd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -42,20 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayPresentOddPosition">
-    <configuration name="ArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElement" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ArrayOfElementsEvenOrOdd">
     <configuration name="ArrayElementsFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElementsFor" />
       <module name="Practice" />
@@ -71,6 +58,19 @@
     </configuration>
     <configuration name="ArrayElementsForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElementsForEach" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -109,19 +109,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayElement" />
       <item itemvalue="Application.ArrayElementsFor" />
       <item itemvalue="Application.ArrayElementsForEach" />
+      <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
       <item itemvalue="Application.ArrayPresentEvenPosition" />
       <item itemvalue="Application.ArrayPresentOddPosition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
         <item itemvalue="Application.ArrayPresentOddPosition" />
         <item itemvalue="Application.ArrayPresentEvenPosition" />
         <item itemvalue="Application.ArrayElementsFor" />
         <item itemvalue="Application.ArrayElementsForEach" />
-        <item itemvalue="Application.ArrayElement" />
       </list>
     </recent_temporary>
   </component>
