@@ -1,3 +1,5 @@
+// Array Present on even Position
+
 package com.bridgelabz.arrayhandling;
 
 import java.util.Scanner;
