@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/WindChill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Array2DExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nagraj Panchal/Desktop/bridgeLabz/Practice_Programs&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day4_Snake_Ladder_Simulator",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.WindChill">
-    <configuration name="FlipCoinHeadsTails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.FlipCoinHeadsTails" />
+}]]></component>
+  <component name="RunManager" selected="Application.ArrayElement">
+    <configuration name="Array2DExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.Array2DExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
+          <option name="PATTERN" value="com.bridgelabz.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonicNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.HarmonicNumbers" />
+    <configuration name="ArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElement" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.PrimeFactors" />
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.ArrayExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
+          <option name="PATTERN" value="com.bridgelabz.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuotientRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.QuotientRemainder" />
+    <configuration name="VariableTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basics.VariableTypes" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.basiccore.*" />
+          <option name="PATTERN" value="com.bridgelabz.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindChill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.functional.WindChill" />
+    <configuration name="com.bridgelabz.practice.VariableTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.VariableTypes" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.functional.*" />
+          <option name="PATTERN" value="com.bridgelabz.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +118,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ArrayElement" />
+      <item itemvalue="Application.Array2DExample" />
+      <item itemvalue="Application.ArrayExample" />
+      <item itemvalue="Application.VariableTypes" />
+      <item itemvalue="Application.com.bridgelabz.practice.VariableTypes" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindChill" />
-        <item itemvalue="Application.QuotientRemainder" />
-        <item itemvalue="Application.PrimeFactors" />
-        <item itemvalue="Application.FlipCoinHeadsTails" />
-        <item itemvalue="Application.HarmonicNumbers" />
+        <item itemvalue="Application.ArrayElement" />
+        <item itemvalue="Application.Array2DExample" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.com.bridgelabz.practice.VariableTypes" />
+        <item itemvalue="Application.VariableTypes" />
       </list>
     </recent_temporary>
   </component>
