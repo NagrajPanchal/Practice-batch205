@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SecondLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Array2DExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/EmployeeWage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day4_Snake_Ladder_Simulator",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day4_Snake_Ladder_Simulator&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ArrayElement">
     <configuration name="Array2DExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.Array2DExample" />
