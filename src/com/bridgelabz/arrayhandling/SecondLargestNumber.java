@@ -1,4 +1,4 @@
-// Second Largest Number
+// Second Largest Array Element
 
 package com.bridgelabz.arrayhandling;
 
@@ -24,15 +24,15 @@ public class SecondLargestNumber
     }
     public static void main(String[] args)
     {
-        SecondLargestNumber second = new SecondLargestNumber();
-         int secondNumber = 0;
-         if(secondNumber != 0)
+        int[] arr = {10,20,23,34,45,9,72,34,56,20};
+         int secondNumber = secondLargest(arr);
+         if(secondNumber == 0)
          {
-             System.out.println("Not a Second Largest Number");
+             System.out.println("No Second Largest Number");
          }
          else
          {
-             System.out.println(secondNumber+ "is second Largest Number");
+             System.out.println(secondNumber+ " is second Largest Number");
          }
 
     }
