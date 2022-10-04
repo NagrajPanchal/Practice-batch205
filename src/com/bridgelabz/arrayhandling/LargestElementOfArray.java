@@ -4,7 +4,6 @@ package com.bridgelabz.arrayhandling;
 
 public class LargestElementOfArray
 {
-    static boolean largestNumber;
     public static void largest()
     {
         int[] arr = {12,13,10,25,40,51};
