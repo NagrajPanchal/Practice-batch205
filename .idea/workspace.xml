@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SmallestArrayElement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/LargestElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/LargestElementOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/AccessSpecifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/AccessSpecifiers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestElementOfArray">
+  <component name="RunManager" selected="Application.SmallestArrayElement">
     <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
       <module name="Practice" />
@@ -59,19 +59,6 @@
     </configuration>
     <configuration name="ArrayOfElementsInLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsInLine" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayPresentOddPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayPresentOddPosition" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -109,20 +96,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallestArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.SmallestArrayElement" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
       <item itemvalue="Application.ArrayOfElementsInLine" />
-      <item itemvalue="Application.ArrayPresentOddPosition" />
       <item itemvalue="Application.LargestElementOfArray" />
       <item itemvalue="Application.SecondLargestNumber" />
+      <item itemvalue="Application.SmallestArrayElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestArrayElement" />
         <item itemvalue="Application.LargestElementOfArray" />
         <item itemvalue="Application.SecondLargestNumber" />
         <item itemvalue="Application.ArrayOfElementsInLine" />
         <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
-        <item itemvalue="Application.ArrayPresentOddPosition" />
       </list>
     </recent_temporary>
   </component>
