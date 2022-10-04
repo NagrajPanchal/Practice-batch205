@@ -1,20 +1,26 @@
 // Smallest Array of Number
 
 package com.bridgelabz.arrayhandling;
+
+import java.util.Arrays;
+
 public class SmallestArrayElement
 {
     void smallestNumber()
     {
-        int[] arr = {11,20,30,40,50,60};
-//        int[] arr =new int[10];
-//        arr[0] = 10;
-//        arr[1] = 20;
-//        arr[3] = 10;
-//        arr[4] = 40;
-//        arr[5] = 50;
-//        arr[6] = 80;
-//        arr[8] = 23;
-//        arr[9] = 25;
+//        int[] arr = {11,20,30,40,50,60};
+        int[] arr =new int[10];
+        arr[0] = 10;
+        arr[1] = 20;
+        arr[2] = 20;
+        arr[7] = 20;
+        arr[3] = 10;
+        arr[4] = 40;
+        arr[5] = 50;
+        arr[6] = 80;
+        arr[8] = 23;
+        arr[9] = 25;
+        System.out.println(Arrays.toString(arr));
         int min = arr[0];
         for(int i = 0; i< arr.length; i++)
         {
