@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SmallestArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/ArrayOfElementInReverseOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/LargestElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/LargestElementOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SmallestArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SmallestArrayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/AccessSpecifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/AccessSpecifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +46,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SmallestArrayElement">
-    <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
+  <component name="RunManager" selected="Application.ArrayOfElementInReverseOrder">
+    <configuration name="AccessSpecifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.AccessSpecifiers" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayOfElementInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementInReverseOrder" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOfElementsInLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsInLine" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.Demo" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="PATTERN" value="com.bridgelabz.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestElementOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.LargestElementOfArray" />
+    <configuration name="Dogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.Dogs" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.SecondLargestNumber" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +113,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
-      <item itemvalue="Application.ArrayOfElementsInLine" />
-      <item itemvalue="Application.LargestElementOfArray" />
-      <item itemvalue="Application.SecondLargestNumber" />
+      <item itemvalue="Application.AccessSpecifiers" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Dogs" />
+      <item itemvalue="Application.ArrayOfElementInReverseOrder" />
       <item itemvalue="Application.SmallestArrayElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOfElementInReverseOrder" />
         <item itemvalue="Application.SmallestArrayElement" />
-        <item itemvalue="Application.LargestElementOfArray" />
-        <item itemvalue="Application.SecondLargestNumber" />
-        <item itemvalue="Application.ArrayOfElementsInLine" />
-        <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Dogs" />
+        <item itemvalue="Application.AccessSpecifiers" />
       </list>
     </recent_temporary>
   </component>
