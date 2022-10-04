@@ -20,8 +20,14 @@ public class Demo
     {
         System.out.println("Hello World");
     }
+    class demo1 extends AccessSpecifiers
+    {
+        int b = 20;
+    }
     public static void main(String[] args)
     {
         hello();
+        AccessSpecifiers.getPublicVar(); // Public Specifiers import from Class access Specifiers
+        AccessSpecifiers.getProtectedVar();
     }
 }
