@@ -1,6 +1,7 @@
 
 package com.bridgelabz.oops;
 
+import com.bridgelabz.practice.AccessSpecifiers;
 import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 public class Dogs
@@ -77,6 +78,9 @@ public class Dogs
         System.out.println(dog2.color); // null
 
         System.out.println(dog1.breed); // "Husky"
+
+        System.out.println("----------------------");
+        AccessSpecifiers.getPublicVar(); // Outside the Package by using Public access specifiers
 
     }
 
