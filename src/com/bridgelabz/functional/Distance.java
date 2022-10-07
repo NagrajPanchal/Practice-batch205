@@ -14,6 +14,6 @@ public class Distance
         double y2 = Math.pow(y,y);
         double sum = x2+y2;
         double distance = Math.sqrt(sum);
-        System.out.println("Distnce is : "+distance);
+        System.out.println("Distance is : "+distance);
     }
 }
