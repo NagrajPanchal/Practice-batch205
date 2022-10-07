@@ -1,4 +1,4 @@
-package com.bridgelabz.practice;
+package com.bridgelabz.doubtsession;
 
 public class StaticAndNonStaticMethod
 {
@@ -23,11 +23,5 @@ public class StaticAndNonStaticMethod
         number1 = 20;
         System.out.println(number1);
         staticMethod();
-    }
-    public static void main(String[] args)
-    {
-        staticMethod();
-        StaticAndNonStaticMethod non = new StaticAndNonStaticMethod();
-        non.nonStaticMethod();
     }
 }
