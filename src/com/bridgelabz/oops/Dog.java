@@ -3,6 +3,11 @@ package com.bridgelabz.oops;
 
 public class Dog
 {
+    // When the Constructor is already created then complier will not create
+    public Dog()
+    {
+
+    }
     static String breed; // null
     static int age; // 0
     static String color; // null
