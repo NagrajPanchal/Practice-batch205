@@ -46,22 +46,21 @@ public class VariableTypes {
 
     static void m1() {
         System.out.println("Inside m1() starts => "+staticVar1); // 40
-        int x = 9;
+        int x = 9; // Local Variable inside a method
         float y = 0;
-        staticVar1 = 20;
-        System.out.println("x in m1() =>"+x);
+        staticVar1 = 20; // Static variable declare out side a method & initialized in method
+        System.out.println("x in m1() =>"+x); // Local variable call only within the method not outside the method or block
         System.out.println("y in m1() =>"+y);
         System.out.println("Inside m1() ends => "+staticVar1); // 20
-
-    }
+            }
 
     public static void main(String[] args) {
 
-        System.out.println("main method starts => "+staticVar1); // 10
-        int x = 9;
+        System.out.println("main method starts => "+staticVar1); // 0
+        int x = 9; // Local variable declare and Initialized
         System.out.println(x);
         staticVar1 = 40;
-        m1();
+        m1(); // Static method directly call without class name
         System.out.println("main method ends => "+staticVar1); // 20
 
 
