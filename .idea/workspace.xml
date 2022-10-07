@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/CallMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/StaticAndNonStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/EvenOddArrayOfElements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/ConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/MethodTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/functional/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/Sample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/practice/VariableTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +44,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainMethod">
+  <component name="RunManager" selected="Application.EvenOddArrayOfElements">
+    <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CallMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.CallMethods" />
       <module name="Practice" />
@@ -66,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.Dog" />
+    <configuration name="DuplicateArrayOfElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.DuplicateArrayOfElement" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOddArrayOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.EvenOddArrayOfElements" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,46 +111,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.SmallestArrayElement" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticAndNonStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.StaticAndNonStaticMethod" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
       <item itemvalue="Application.CallMethods" />
-      <item itemvalue="Application.SmallestArrayElement" />
-      <item itemvalue="Application.StaticAndNonStaticMethod" />
-      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.DuplicateArrayOfElement" />
+      <item itemvalue="Application.EvenOddArrayOfElements" />
       <item itemvalue="Application.MainMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenOddArrayOfElements" />
+        <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
+        <item itemvalue="Application.DuplicateArrayOfElement" />
         <item itemvalue="Application.MainMethod" />
         <item itemvalue="Application.CallMethods" />
-        <item itemvalue="Application.StaticAndNonStaticMethod" />
-        <item itemvalue="Application.SmallestArrayElement" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -162,14 +154,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/SmallestArrayElement.java</url>
           <line>23</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
