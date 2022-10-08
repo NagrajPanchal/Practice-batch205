@@ -34,7 +34,7 @@ public class EvenOddArrayOfElements
     {
         DuplicateArrayOfElement.userDefinedArrayOfSizeAndElements();
         DuplicateArrayOfElement.arrayOfElements();
-        evenOdd();
+//        evenOdd();
 
     }
 }
