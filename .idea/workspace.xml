@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/EvenOddArrayOfElements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/pattern/DiamondShapeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/DuplicateArrayOfElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/FrequencyOfEachElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/arrayhandling/FrequencyOfEachElementInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenOddArrayOfElements">
+  <component name="RunManager" selected="Application.FrequencyOfEachElementInArray">
     <configuration name="ArrayOfElementsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayOfElementsEvenOrOdd" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.CallMethods" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FrequencyOfEachElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.FrequencyOfEachElementInArray" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.practice.MainMethod" />
       <module name="Practice" />
@@ -113,18 +112,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
-      <item itemvalue="Application.CallMethods" />
       <item itemvalue="Application.DuplicateArrayOfElement" />
       <item itemvalue="Application.EvenOddArrayOfElements" />
+      <item itemvalue="Application.FrequencyOfEachElementInArray" />
       <item itemvalue="Application.MainMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfEachElementInArray" />
         <item itemvalue="Application.EvenOddArrayOfElements" />
         <item itemvalue="Application.ArrayOfElementsEvenOrOdd" />
         <item itemvalue="Application.DuplicateArrayOfElement" />
         <item itemvalue="Application.MainMethod" />
-        <item itemvalue="Application.CallMethods" />
       </list>
     </recent_temporary>
   </component>
