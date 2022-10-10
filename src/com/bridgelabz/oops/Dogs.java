@@ -82,6 +82,9 @@ public class Dogs
         System.out.println("----------------------");
         AccessSpecifiers.getPublicVar(); // Outside the Package by using Public access specifiers
 
+        Dogs obj4 = new Dogs();
+        System.out.println(obj4.breed);
+
     }
 
 }
