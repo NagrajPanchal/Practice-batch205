@@ -20,8 +20,8 @@ public class CallMethods // Class
         System.out.println(objStudent.getRollNumber());
         System.out.println(objStudent.getDepartment());
         System.out.println(objStudent.getCollageName()); // Private setter and Getter method
-        System.out.println(objStudent.age); // Public
-//        System.out.println(objStudent.cityMethod());// Protected variable diferent class by method
+        System.out.println(objStudent.age); // Public variable access any where inside and outside the package
+//        System.out.println(objStudent.city);// Protected variable unable to access outside the package without setter & getter method
 
     }
 }
