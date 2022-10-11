@@ -58,17 +58,21 @@ public class Sample3
         System.out.println("Constructor Object created access private variable via getter and setter method");
         Employee emp = new Employee();
         emp.setEmployeeID(16);
-        emp.setDepartment("SDE");
         emp.setSalary(54000);
         emp.setName("Nagraj");
         System.out.println(emp.getName()); // inherited getter method from Person class in Employee class
         System.out.println(emp.getEmployeeID()); // call getter method from employee class
-        System.out.println(emp.getDepartment());
         System.out.println(emp.getSalary());
 
         System.out.println("*****************************");
         System.out.println("access non-static method by using constructor object");
         emp.displayEmployeeDetails();
+        emp.personDetails();
+        emp.city="Bidar";
+        emp.setDepartment("SDE");
+        System.out.println(emp.getDepartment()); // Private variable access with setter and getter method
+        System.out.println(emp.city); // Public variable access without setter and getter method
+        System.out.println(emp.address); // Protected variable access within package without using setter and getter method
 
 
     }
