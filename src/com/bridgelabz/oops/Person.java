@@ -8,6 +8,9 @@ public class Person
     private String  gender;
     private String adhaarNumber;
 
+    protected String address;
+    public String city;
+
     public Person() {
     }
 
@@ -50,9 +53,17 @@ public class Person
         this.adhaarNumber = adhaarNumber;
     }
 
-    void EmployeeDetailsConstructor()
+    void personDetails()
     {
-        new Person("Nagraj",29,"Male","1234-3454-2354");
+        Person pr = new Person("Nagraj",29,"Male","1234-3454-2354");
+        pr.setName("Nagraj");
+        pr.setAge(29);
+        pr.setGender("Male");
+        pr.setAdhaarNumber("1234-1234-1234");
+        System.out.println(pr.getName());
+        System.out.println(pr.getAge());
+        System.out.println(pr.getGender());
+        System.out.println(pr.getAdhaarNumber());
     }
 
 }
