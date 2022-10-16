@@ -15,8 +15,13 @@ public class MethodTypes2
         System.out.println(MethodTypes2.staticVar);
         System.out.println();
     }
+    void m3()
+    {
+        System.out.println("hi i'm m3()");
+    }
     void method2(int instanceVar)
     {
+        m3();
         System.out.println("Non-static Method");
         int staticVar = 20;
         System.out.println(staticVar);

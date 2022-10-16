@@ -1,6 +1,8 @@
 
 package com.bridgelabz.oops;
 
+import java.util.Objects;
+
 public class Dog
 {
     int height,weight,length;
@@ -59,6 +61,21 @@ public class Dog
 
     static void walk(){
         System.out.println("walk");
+    }
+
+    @Override
+    public boolean equals(Object o)
+    {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Dog dog = (Dog) o;
+        return height == dog.height && weight == dog.weight && length == dog.length;
+    }
+
+    @Override
+    public int hashCode()
+    {
+        return Objects.hash(height, weight, length);
     }
 
     public static void main(String[] args) {
@@ -123,6 +140,10 @@ public class Dog
         System.out.println(dog14.height);
         System.out.println(dog14.weight);
         System.out.println(dog14.length);
+
+        System.out.println(dog14.equals(dog14));
+        System.out.println(dog1.equals("ABC"));
+
     }
 
 }
