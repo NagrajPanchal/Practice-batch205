@@ -1,5 +1,7 @@
 package com.bridgelabz.oops;
 // Inheritance ==> Inheriting the properties of parent class in to the Child class
+//IS-A => Relationship between Animal -> Monkey
+//HAS-A => Relationship between AddressBook -> Contact
 // Through inheritance we are achieving code reusabilty.
 // A clas is Parent class, B is the Child Class
 class A

@@ -35,6 +35,9 @@ public class Polymorphism2
     // Overriding
     // Whenever we inherit Parent class into child class ,we can override the inherited method.
     // Whenever we override the run-time object plays the role in determining which method should execute.
+// Return type plays a role while overriding
+// While overriding , the return type of 2 methods should be either same or Covarient(Parent-child relashaship)
+
     public static void main(String[] args)
     {
         Child1 obj = new Child1();

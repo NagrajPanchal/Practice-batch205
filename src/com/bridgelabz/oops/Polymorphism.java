@@ -10,7 +10,8 @@ public class Polymorphism
     //ex: m1(int x, int y)
     //Overloading
     // 2 or Method having same name but different number of arguments
-
+    // Whenever we overload method resolution is taken care by the compiler based on run-time object
+    // Return type does not play a role in overriding
     void m1()
     {
         System.out.println("--> m1()");

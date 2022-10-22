@@ -6,6 +6,7 @@ import java.util.Objects;
 public class Dog
 {
     int height,weight,length;
+    String name,food;
 
     // Compiler creates a default constructor when there is no constructor present in the class.
     // When the constructor is already created , then compiler will not create any constructor.
@@ -35,12 +36,7 @@ public class Dog
         this.weight = weightOfDog;
         this.length = lengthOfDog;
     }
-    //    public Dog(String breedOfDog,int ageOfDog,String colorOfDog)
-//    {
-//        breed = breedOfDog;
-//        age = ageOfDog;
-//        color = colorOfDog;
-//    }
+
 
 
 
@@ -63,6 +59,12 @@ public class Dog
         System.out.println("walk");
     }
 
+    public Dog(String name, String food)
+    {
+        this.name = name;
+        this.food = food;
+    }
+
     @Override
     public boolean equals(Object o)
     {
@@ -76,6 +78,14 @@ public class Dog
     public int hashCode()
     {
         return Objects.hash(height, weight, length);
+    }
+
+    @Override
+    public String toString() {
+        return "Dog{" +
+                "name='" + name + '\'' +
+                ", food='" + food + '\'' +
+                '}';
     }
 
     public static void main(String[] args) {
