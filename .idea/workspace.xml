@@ -5,43 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Refactor : Abstraction, Association, Aggregation,Composition,Generics">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/AbstactClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/AbstractionImplementsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Adition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/CalculatorOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/GenericAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/PolymorphisumConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/ToStringProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/SumOf3IntegerAddsTo0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/generics/Generics1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/generics/Generics2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Abstraction3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Abstraction4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/AssociationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/FinalKeywordConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/ImplA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/ImplB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Ploymorphism5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Ploymorphisum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphism6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphisum4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/SuperThisExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/ToStingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/VariableArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/InheritanceBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/InheritanceBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphism2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Polymorphism2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Sample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Sample3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +47,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day9_AddressBookSystem",
+    "last_opened_file_path": "C:/Users/user/Desktop/bridgelabz/Practice-batch205",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GenericAddition">
-    <configuration name="AssociationExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.AssociationExample" />
+  <component name="RunManager" selected="Application.com.bridgelabz.doubtsession.LinkedListMain">
+    <configuration name="ArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.arrayhandling.ArrayElement" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.arrayhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.Dogs" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -92,51 +78,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.GenericAddition" />
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.datastructure.LinkedListMain" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.Sample3" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.doubtsession.LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.LinkedListMain" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.GenericClass" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Generics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.generics.Generics1" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Generics2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.generics.Generics2" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AssociationExample (1)" />
-      <item itemvalue="Application.GenericAddition" />
-      <item itemvalue="Application.GenericClass" />
-      <item itemvalue="Application.Generics1" />
-      <item itemvalue="Application.Generics2" />
+      <item itemvalue="Application.LinkedListMain" />
+      <item itemvalue="Application.com.bridgelabz.doubtsession.LinkedListMain" />
+      <item itemvalue="Application.ArrayElement" />
+      <item itemvalue="Application.Dogs" />
+      <item itemvalue="Application.Sample3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericAddition" />
-        <item itemvalue="Application.GenericClass" />
-        <item itemvalue="Application.Generics2" />
-        <item itemvalue="Application.AssociationExample (1)" />
-        <item itemvalue="Application.Generics1" />
+        <item itemvalue="Application.com.bridgelabz.doubtsession.LinkedListMain" />
+        <item itemvalue="Application.LinkedListMain" />
+        <item itemvalue="Application.Sample3" />
+        <item itemvalue="Application.Dogs" />
+        <item itemvalue="Application.ArrayElement" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +191,16 @@
           <url>file://$PROJECT_DIR$/src/com/bridgelabz/oops/VariableArgs.java</url>
           <line>13</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedListMain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedListMain.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
