@@ -78,72 +78,34 @@ public class LinkedList<T>
         tail.setNext(null); // set a next is null because of tail point out reference always null
         return data; // returned old tail data or popped element
     }
-    public boolean popSearchNode(T searchDeleteData)
-    {
-        if (search(searchDeleteData) != null) {
-            T data = tail.getData();
-            Node<T> previousNode = head;
-            Node<T> nextNode = search(searchDeleteData).getNext();
-            while (previousNode.getNext() != nextNode) {
-                previousNode = previousNode.getNext();
-            }
-//            previousNode.setNext(nextNode);
-//            nextNode.setNext(null);
-//            nextNode = previousNode;
-//            nextNode.setNext(nextNode);
-            return true;
+    public Node<T> searchDelete(T searchDeleteData) {
+        Node<T> temp = head;
+        while (temp != null) {
+            if (temp.getData().equals(searchDeleteData))
+                return temp;
+            temp = temp.getNext();
         }
-        return true;
+
+        return null;
     }
 
-//    public boolean popSearchNode(T searchDeleteData)
-//    {
-//    if(search(searchDeleteData) != null)
-//    {
-//        Node<T> previousNode = head;
-//        Node<T> searchNode = (Node<T>) search(searchDeleteData).getData();
-//        Node<T> nextNode = search(searchDeleteData).getNext();
-//            while (previousNode != null){
-//                previousNode = previousNode.getNext();
-//            }
-//        previousNode = previousNode.getNext();
-////        nextNode.setNext(previousNode);
-//    }
-//        else
-//                System.out.println("Node not found unable to Delete a node ");
-//        return false;
-//}
-
-
-//    boolean popSearchNode(T searchDeleteData)
-//    {
-//        Node temp = head, prev = null;
-//        if (temp != null && temp.getData() == searchDeleteData) {
-//            head = temp.getNext(); // Changed head
-//            return false;
-//        }
-//        while (temp != null && temp.getData() != searchDeleteData) {
-//            prev = temp;
-//            temp = temp.getNext();
-//        }
-//        if (temp == null)
-//            return false;
-////        prev.setNext() = temp.getNext();
-//        return true;
-//    }
-
-
-    public void delete(int pos, T value)
+    public boolean popSearchNode(T searchDeleteData)
     {
-        if (pos == 0) {
-            head = head.getNext();
-            return;
+        Node<T> deleteNode=search(searchDeleteData);
+        Node<T> temp = head;
+        while (temp!=null) {
+            if (temp == deleteNode){
+                head = deleteNode.getNext();
+                break;
+            }
+            else if (temp.getNext() == deleteNode) {
+                temp.setNext(deleteNode.getNext());
+                deleteNode.setNext(null);
+                return true;
+            }
+            temp=temp.getNext();
         }
-        Node previous = head;
-        for (int i = 0; i < pos - 1; i++) {
-            previous = previous.getNext();
-        }
-        previous = previous.getNext().getNext();
+        return false;
     }
 
     // Ascending ordered linked List

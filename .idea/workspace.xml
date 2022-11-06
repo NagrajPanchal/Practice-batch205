@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Data Structure linked list">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/HashCodeConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/HashCodeAndString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/NumberList.java" afterDir="false" />
+    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Data Structure linked list search and ascending">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/assignment/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/assignment/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/assignment/MyLinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/RegexMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/LinkedListMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LinkedListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,30 +44,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/bridgelabz/Day11-12_Assignments_Stock_Account_Management&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/bridgelabz/Day9AddressBookSystem&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.bridgelabz.doubtsession.LinkedListMain">
+  <component name="RunManager" selected="Application.Regex">
     <configuration name="HashCodeAndString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.HashCodeAndString" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashCodeConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.datastructure.HashCodeConcepts" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.NumberList" />
+    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.Regex" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.regex.RegexMain" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +115,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Regex" />
+      <item itemvalue="Application.RegexMain" />
       <item itemvalue="Application.HashCodeAndString" />
-      <item itemvalue="Application.HashCodeConcepts" />
       <item itemvalue="Application.LinkedListMain" />
-      <item itemvalue="Application.NumberList (2)" />
       <item itemvalue="Application.com.bridgelabz.doubtsession.LinkedListMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Regex" />
+        <item itemvalue="Application.RegexMain" />
         <item itemvalue="Application.com.bridgelabz.doubtsession.LinkedListMain" />
         <item itemvalue="Application.LinkedListMain" />
         <item itemvalue="Application.HashCodeAndString" />
-        <item itemvalue="Application.HashCodeConcepts" />
-        <item itemvalue="Application.NumberList (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666873614114</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added : Data Structure linked list search and ascending">
+      <created>1667215786342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667215786342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +179,8 @@
     <MESSAGE value="Refactor : Oops concepts,equals,compareTo,hashCode,Wrapperclass,ObjectClass" />
     <MESSAGE value="Refactor : Abstraction, Association, Aggregation,Composition,Generics" />
     <MESSAGE value="Added : Data Structure linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Data Structure linked list" />
+    <MESSAGE value="Added : Data Structure linked list search and ascending" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Data Structure linked list search and ascending" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
