@@ -6,6 +6,11 @@ package com.bridgelabz.java8features;
 // Stream API => Whenever we want to do some operations on group of data (array , Collection), we will use stream API.
 // Consumer, Predicate , Function , Supplier  => Predefined Functional Interfaces
 
+// Consumer => It represents an operation that accepts a single argument and returns no result.
+// Predicate => It represents a predicate (boolean-valued function) of one argument.
+// Function => It represents a function that accepts one argument and returns a result.(input and output)
+// Supplier => It represents a supplier of results.(NO input only supplier)
+
 
 import java.util.function.Consumer;
 
@@ -30,8 +35,17 @@ class Impl2 implements  IMathFunction{
         return x*y;
     }
 }
+class ConsumerInterfaceExample
+{
+    static void printMessage(String myName) {
+        System.out.println(myName);
+    }
+    static void printValue(int val) {
+        System.out.println(val);
+    }
+}
 
-public class MainClass2
+    public class MainClass2
 {
     public static void main(String[] args)
     {
@@ -43,9 +57,10 @@ public class MainClass2
             int res = sum1 % 5;
             return res;
         };
+        IMathFunction con = (a,b) -> a;
 
-//        System.out.println("sum => " + sum.calculate(3, 6));
-//        System.out.println("Product => "+prod.calculate(4,7));
+        System.out.println("sum => " + sum.calculate(3, 6));
+        System.out.println("Product => "+prod.calculate(4,7));
 
         System.out.println("sum -> " + sum.calculate(10,20));
         System.out.println("sum3 -> " + sum3.calculate(11,22));
@@ -59,7 +74,12 @@ public class MainClass2
 //        IMathFunction ref2 = new Impl2();
 //        System.out.println("Product => "+ref2.calculate(4,7));
 
+        System.out.println("************ Consumer ***************");
+        Consumer<String> consumer1 = ConsumerInterfaceExample::printMessage;
+        consumer1.accept("Nagraj");
+        Consumer<Integer> consumer2 = ConsumerInterfaceExample::printValue;
+        consumer2.accept(12);
 
     }
-    Consumer consumer;
+
 }

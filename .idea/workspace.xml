@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Regex and Maven program">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/collection/Collection1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/collection/Collection2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/collection/ComparatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/doubtsession/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass2.java" afterDir="false" />
+    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Exception, Lambda Expression, Collections">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/Demo123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/StreamAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/MainClass2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +55,26 @@
       <recent name="C:\Users\user\Desktop\bridgelabz\Practice-batch205\src\com\bridgelabz\exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExpression">
+  <component name="RunManager" selected="Application.StreamAPI">
     <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.Collections" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.java8features.Demo123" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.java8features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.Regex" />
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.java8features.StreamAPI" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.regex.RegexMain" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.regex.*" />
+          <option name="PATTERN" value="com.bridgelabz.java8features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +122,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Demo123" />
       <item itemvalue="Application.LambdaExpression" />
       <item itemvalue="Application.MainClass2" />
+      <item itemvalue="Application.StreamAPI" />
       <item itemvalue="Application.Collections" />
-      <item itemvalue="Application.Regex" />
-      <item itemvalue="Application.RegexMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamAPI" />
+        <item itemvalue="Application.Demo123" />
+        <item itemvalue="Application.MainClass2" />
         <item itemvalue="Application.LambdaExpression" />
         <item itemvalue="Application.Collections" />
-        <item itemvalue="Application.MainClass2" />
-        <item itemvalue="Application.Regex" />
-        <item itemvalue="Application.RegexMain" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667738041543</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added : Exception, Lambda Expression, Collections">
+      <created>1668131211969</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668131211969</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +202,8 @@
     <MESSAGE value="Added : Data Structure linked list" />
     <MESSAGE value="Added : Data Structure linked list search and ascending" />
     <MESSAGE value="Added : Regex and Maven program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Regex and Maven program" />
+    <MESSAGE value="Added : Exception, Lambda Expression, Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Exception, Lambda Expression, Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
