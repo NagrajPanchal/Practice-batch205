@@ -3,8 +3,7 @@ package com.bridgelabz.oops;
 
 import java.util.Objects;
 
-public class Dog
-{
+public class Dog implements Comparable<Dog> {
     int height,weight,length;
     String name,food;
 
@@ -41,9 +40,9 @@ public class Dog
 
 
 
-    static String breed; // null
-    static int age; // 0
-    static String color; // null
+    public static String breed; // null
+    public static int age; // 0
+    public static String color; // null
     public final static String VOICE = "Barking";
     static void eat()
     {
