@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Lambda Expresssion and Stream API">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/prime/PrimeNumber1to100.java" afterDir="false" />
+    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/CustomAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/ForEveryone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestDeprecated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestOverrideAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestSuppressWarnings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/CSVDemo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/workshop/WorkShop4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/java8features/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/StreamAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +62,13 @@
       <recent name="C:\Users\user\Desktop\bridgelabz\Practice-batch205\src\com\bridgelabz\exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber1to100">
-    <configuration name="Demo123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.java8features.Demo123" />
+  <component name="RunManager" selected="Application.SubClass">
+    <configuration name="CustomAnnotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.CustomAnnotations" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.java8features.*" />
+          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.doubtsession.LambdaExpression" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.SubClass" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.doubtsession.*" />
+          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.java8features.MainClass2" />
+    <configuration name="TestDeprecated (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.TestDeprecated" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.java8features.*" />
+          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.prime.PrimeNumber1to100" />
+    <configuration name="TestOverrideAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.TestOverrideAnimal" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.prime.*" />
+          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.java8features.StreamAPI" />
+    <configuration name="TestSuppressWarnings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.TestSuppressWarnings" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.java8features.*" />
+          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeNumber1to100" />
-      <item itemvalue="Application.Demo123" />
-      <item itemvalue="Application.LambdaExpression" />
-      <item itemvalue="Application.MainClass2" />
-      <item itemvalue="Application.StreamAPI" />
+      <item itemvalue="Application.CustomAnnotations" />
+      <item itemvalue="Application.SubClass" />
+      <item itemvalue="Application.TestDeprecated (1)" />
+      <item itemvalue="Application.TestOverrideAnimal" />
+      <item itemvalue="Application.TestSuppressWarnings" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber1to100" />
-        <item itemvalue="Application.StreamAPI" />
-        <item itemvalue="Application.Demo123" />
-        <item itemvalue="Application.MainClass2" />
-        <item itemvalue="Application.LambdaExpression" />
+        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.CustomAnnotations" />
+        <item itemvalue="Application.TestSuppressWarnings" />
+        <item itemvalue="Application.TestOverrideAnimal" />
+        <item itemvalue="Application.TestDeprecated (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668162985554</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print">
+      <created>1668224607807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668224607807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +225,8 @@
     <MESSAGE value="Added : Regex and Maven program" />
     <MESSAGE value="Added : Exception, Lambda Expression, Collections" />
     <MESSAGE value="Added : Lambda Expresssion and Stream API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Lambda Expresssion and Stream API" />
+    <MESSAGE value="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
