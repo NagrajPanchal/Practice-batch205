@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/CustomAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/ForEveryone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestDeprecated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestOverrideAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/annotations/TestSuppressWarnings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/CSVDemo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/workshop/WorkShop4.java" afterDir="false" />
+    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Annotations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/java8features/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/java8features/StreamAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668224607807</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added : Annotations">
+      <created>1668785349479</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668785349479</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +221,8 @@
     <MESSAGE value="Added : Exception, Lambda Expression, Collections" />
     <MESSAGE value="Added : Lambda Expresssion and Stream API" />
     <MESSAGE value="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print" />
+    <MESSAGE value="Added : Annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Annotations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
