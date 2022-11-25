@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : Annotations">
+    <list default="true" id="faab6a35-77af-40b3-85a1-2c95996cba00" name="Changes" comment="Added : stream IO">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/csvfilereader/OpenCSVExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/exceptions/ReadCSVExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/bridgelabz/Day9AddressBookSystem&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "C:/Users/user/Desktop/bridgelabz/Day9AddressBookSystem",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bridgelabz.collection" />
@@ -50,7 +55,7 @@
       <recent name="C:\Users\user\Desktop\bridgelabz\Practice-batch205\src\com\bridgelabz\exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubClass">
+  <component name="RunManager" selected="Application.ReadCSVExample1">
     <configuration name="CustomAnnotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.CustomAnnotations" />
       <module name="Practice" />
@@ -64,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.SubClass" />
+    <configuration name="ReadCSVExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.exceptions.ReadCSVExample1" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.annotations.*" />
+          <option name="PATTERN" value="com.bridgelabz.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDeprecated (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.TestDeprecated" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.annotations.SubClass" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -117,19 +122,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ReadCSVExample1" />
       <item itemvalue="Application.CustomAnnotations" />
       <item itemvalue="Application.SubClass" />
-      <item itemvalue="Application.TestDeprecated (1)" />
       <item itemvalue="Application.TestOverrideAnimal" />
       <item itemvalue="Application.TestSuppressWarnings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadCSVExample1" />
         <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.CustomAnnotations" />
         <item itemvalue="Application.TestSuppressWarnings" />
         <item itemvalue="Application.TestOverrideAnimal" />
-        <item itemvalue="Application.TestDeprecated (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668785349479</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added : stream IO">
+      <created>1669175266580</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669175266580</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +234,8 @@
     <MESSAGE value="Added : Lambda Expresssion and Stream API" />
     <MESSAGE value="Added : Prime Numbers 1 to 100 greater then 10 and store in array then Print" />
     <MESSAGE value="Added : Annotations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Annotations" />
+    <MESSAGE value="Added : stream IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : stream IO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

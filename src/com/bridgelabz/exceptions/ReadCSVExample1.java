@@ -1,6 +1,7 @@
 package com.bridgelabz.exceptions;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ReadCSVExample1
@@ -17,3 +18,6 @@ public class ReadCSVExample1
         sc.close();  //closes the scanner
     }
 }
+
+
+
